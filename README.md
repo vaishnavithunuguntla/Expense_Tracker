@@ -14,3 +14,5 @@ A simple expense tracker application built with React. It allows users to add in
 - JavaScript (ES6+)
 - CSS for styling
 - gh-pages for deployment
+
+Live Project: https://vaishnavithunuguntla.github.io/Expense_Tracker/
